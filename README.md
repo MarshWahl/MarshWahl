@@ -1,7 +1,7 @@
 # Marshall Wahl
 
 ## Intention
-I am an aspiring Cybersecurity professional looking to enter the cybersecurity industry. My goal is to continuously develop my skills and contribute to the security of information systems.
+A seasoned security professional transitioning to the field of IT and Cybersecurity. Bringing 9+ years of problem-solving, team building, and security management experience. My goal is to continuously develop my skills and contribute to the security of information systems.
 
 ## Certifications
 - [Google Cybersecurity Professional Certification](https://credly.com/badges/d3d8dd95-bb33-4561-a049-8ad9f3bcba98/linked_in_profile) - Verified by Credly.
