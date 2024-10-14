@@ -18,4 +18,4 @@ A seasoned security professional transitioning to the field of IT and Cybersecur
 ## Brief Summary
 I am competent in identifying common cybersecurity risks, threats, and vulnerabilities, with knowledge of techniques to mitigate these challenges. I am eager to not only apply my skills and knowledge in a real-world setting, but to learn and grow from this foundational level.
 
-Feel free to connect with me!
+Please feel free to check out my repositories for my portfolio projects and connect with me!
